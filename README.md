@@ -1,5 +1,4 @@
 # stackadmin-infyom-template
-=============================
 StackAdmin templates for InfyOm Laravel Generator http://labs.infyom.com/laravelgenerator/
 
 Stack Theme Page: https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/
