@@ -1,0 +1,3 @@
+<link rel="stylesheet" type="text/css" href="{{url('stack_admin')}}/app-assets/vendors/css/tables/datatable/datatables.min.css">
+<link rel="stylesheet" type="text/css" href="{{url('stack_admin')}}/app-assets/vendors/css/tables/extensions/buttons.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="{{url('stack_admin')}}/app-assets/vendors/css/tables/datatable/buttons.bootstrap4.min.css">

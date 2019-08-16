@@ -1,0 +1,37 @@
+{
+    "name": "imokhles/stackadmin-infyom-template",
+    "description": "StackAdmin template for InfyOm Laravel Generator",
+    "keywords": [
+        "infyom",
+        "laravel",
+        "generator",
+        "stackadmin",
+        "stack",
+        "stack-admin",
+        "template",
+        "bootstrap"
+    ],
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": "5.8.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iMokhles",
+            "email": "mokhleshussien@aol.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "iMokhles\\StackAdminTemplate\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\iMokhles\\StackAdminTemplate\\StackAdminTemplateServiceProvider"
+            ]
+        }
+    }
+}
